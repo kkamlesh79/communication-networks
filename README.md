@@ -2,8 +2,8 @@
 
 # Communication-Networks
 
-   name : SenthilKumar K
-   reg no: 212222060234
+   name : kamalesh K
+   reg no: 212222060105
 
 ## Step 1: Configure VLANs on Layer 3 Switch
 
